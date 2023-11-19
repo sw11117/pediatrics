@@ -63,4 +63,4 @@ jobs:
           app-name: 'peds-dnn-web-pcf'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_668CB38170BE4CD4A30C2FF9C14BB73D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D24593A80823413690C2AC5F2A51B1F0 }}
